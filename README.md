@@ -51,7 +51,8 @@ Results – accuracy/loss metrics, confusion matrix, sample outputs
 ```
 ├── assets
 |   └── img
-|       └── schema.png
+|       └── test # test images
+|       └── schema.png # architecture schema
 ├── main.ipynb
 ├── requirements.txt
 ├── README.md
