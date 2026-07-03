@@ -2,7 +2,7 @@
 ## About
 - AI Ventura is a CNN-type neural network trained using the Animals10 model to classify 10 animal species (“dog,” “horse,” “elephant,” “butterfly,” “chicken,” “cat,” “cow,” “sheep,” “squirrel,” “spider”) using transfer learning on top of MobileNetV2.
 ## Usage and Examples
- //TODO
+ ![Example](./assets/img/screenshots/00_example.png)
 - APP on HuggingFace Space -> [AI_ventura](https://huggingface.co/spaces/Bitnick42/AI_ventura)
 
 ## Problem statement
@@ -52,6 +52,7 @@ Results – accuracy/loss metrics, confusion matrix, sample outputs
 ├── assets
 |   └── img
 |       └── test # test images
+|       └── screenshots # screenshots example images
 |       └── schema.png # architecture schema
 ├── main.ipynb
 ├── requirements.txt
